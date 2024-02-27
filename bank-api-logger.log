@@ -1,0 +1,89 @@
+2024-02-27T14:39:30.806Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T14:40:44.380Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T14:41:07.118Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T14:44:24.094Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T14:45:36.120Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T14:45:54.014Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T14:45:59.407Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T14:46:11.562Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T14:46:38.977Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T14:47:06.704Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T14:47:13.743Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T14:47:24.794Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T14:47:31.280Z [my-bank-api]  info: GET /account
+2024-02-27T14:47:41.300Z [my-bank-api]  info: POST /account - {"id":5,"name":"asassa","balance":4000}
+2024-02-27T15:07:08.885Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:08:10.575Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:08:16.493Z [my-bank-api]  info: POST /account - {"id":6,"name":"Alaex","balance":4000}
+2024-02-27T15:08:25.866Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:08:33.199Z [my-bank-api]  error: POST => /account campos name e balance são obrigatórios
+2024-02-27T15:08:39.493Z [my-bank-api]  error: POST => /account campos name e balance são obrigatórios
+2024-02-27T15:08:45.569Z [my-bank-api]  error: POST => /account campos name e balance são obrigatórios
+2024-02-27T15:09:07.940Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:09:11.378Z [my-bank-api]  info: POST /account - {"id":7,"name":"asas"}
+2024-02-27T15:09:30.451Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:09:32.347Z [my-bank-api]  error: POST => /account campos name e balance são obrigatórios
+2024-02-27T15:09:40.794Z [my-bank-api]  error: POST => /account campos name e balance são obrigatórios
+2024-02-27T15:10:23.050Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:10:25.079Z [my-bank-api]  info: POST /account - {"id":8,"name":"asas","balance":0}
+2024-02-27T15:10:32.868Z [my-bank-api]  error: POST => /account campos name e balance são obrigatórios
+2024-02-27T15:10:37.760Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:11:19.953Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:12:40.337Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:13:15.930Z [my-bank-api]  info: GET /account
+2024-02-27T15:13:40.506Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:13:42.117Z [my-bank-api]  error: PUT => /account data.findIndex is not a function
+2024-02-27T15:14:52.482Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:15:14.124Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:15:16.180Z [my-bank-api]  error: PUT => /account data.findIndex is not a function
+2024-02-27T15:15:18.478Z [my-bank-api]  error: PUT => /account data.findIndex is not a function
+2024-02-27T15:15:43.168Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:15:44.874Z [my-bank-api]  error: PUT => /account account not found
+2024-02-27T15:16:22.958Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:16:54.089Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:17:20.848Z [my-bank-api]  info: GET /account
+2024-02-27T15:17:36.892Z [my-bank-api]  error: PUT => /account Cannot read properties of undefined (reading '0')
+2024-02-27T15:18:31.171Z [my-bank-api]  info: GET /account
+2024-02-27T15:18:39.122Z [my-bank-api]  info: GET /account
+2024-02-27T15:18:42.267Z [my-bank-api]  error: PUT => /account Cannot read properties of undefined (reading '0')
+2024-02-27T15:19:05.755Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:19:06.851Z [my-bank-api]  error: PUT => /account Invalid status code: 0
+2024-02-27T15:19:10.525Z [my-bank-api]  error: PUT => /account Invalid status code: 0
+2024-02-27T15:19:15.787Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:19:17.399Z [my-bank-api]  error: PUT => /account Invalid status code: 0
+2024-02-27T15:19:35.906Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:19:47.103Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:19:48.055Z [my-bank-api]  error: PUT => /account Cannot read properties of undefined (reading '0')
+2024-02-27T15:20:00.269Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:20:07.437Z [my-bank-api]  error: PUT => /account Cannot read properties of undefined (reading '0')
+2024-02-27T15:20:30.051Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:20:32.050Z [my-bank-api]  error: PUT => /account Invalid status code: 0
+2024-02-27T15:20:37.951Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:20:39.509Z [my-bank-api]  error: PUT => /account Cannot read properties of undefined (reading '0')
+2024-02-27T15:21:05.844Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:21:07.605Z [my-bank-api]  error: PUT => /account Cannot read properties of undefined (reading '0')
+2024-02-27T15:21:27.937Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:21:29.745Z [my-bank-api]  error: PUT => /account Cannot read properties of undefined (reading '0')
+2024-02-27T15:21:34.108Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:21:35.064Z [my-bank-api]  error: PUT => /account Cannot read properties of undefined (reading '0')
+2024-02-27T15:21:48.905Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:21:50.640Z [my-bank-api]  error: PUT => /account Cannot read properties of undefined (reading '0')
+2024-02-27T15:22:02.337Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:22:03.577Z [my-bank-api]  error: PUT => /account Cannot read properties of undefined (reading '0')
+2024-02-27T15:22:19.710Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:22:24.572Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:22:25.645Z [my-bank-api]  info: PUT /account - {"id":2,"name":"Alex santos","balance":7000}
+2024-02-27T15:22:35.206Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:22:36.531Z [my-bank-api]  error: PUT => /account Cannot read properties of undefined (reading 'findIndex')
+2024-02-27T15:22:45.345Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:22:46.534Z [my-bank-api]  error: PUT => /account Cannot read properties of undefined (reading 'findIndex')
+2024-02-27T15:23:14.282Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:23:15.588Z [my-bank-api]  error: PUT => /account Cannot read properties of undefined (reading 'findIndex')
+2024-02-27T15:23:24.826Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:23:26.089Z [my-bank-api]  info: PUT /account - {"id":2,"name":"Alex santos","balance":7000}
+2024-02-27T15:23:28.758Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:24:19.852Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:24:25.569Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T15:24:38.690Z [my-bank-api]  info: PUT /account - {"id":2,"name":"Alex santos","balance":7000}
+2024-02-27T15:24:50.831Z [my-bank-api]  info: GET /account
+2024-02-27T15:28:21.133Z [my-bank-api]  info: Server is running on port 3000
