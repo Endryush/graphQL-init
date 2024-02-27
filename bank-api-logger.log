@@ -193,3 +193,4 @@
 2024-02-27T17:45:47.424Z [my-bank-api]  info: Server is running on port 3000
 2024-02-27T17:45:59.579Z [my-bank-api]  info: PATCH /account/updateBalance - {"balance":5000,"id":16}
 2024-02-27T17:46:04.999Z [my-bank-api]  info: PATCH /account/updateBalance - {"balance":54000,"id":16}
+2024-02-27T17:46:08.863Z [my-bank-api]  info: GET /account
