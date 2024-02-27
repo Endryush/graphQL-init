@@ -1,5 +1,5 @@
 {
-  "nextId": 20,
+  "nextId": 29,
   "accounts": [
     {
       "id": 2,
@@ -61,9 +61,24 @@
       "balance": 54000
     },
     {
-      "id": 19,
-      "name": "nome ",
-      "balance": 54000
+      "id": 24,
+      "name": "teste graphql",
+      "balance": 2000
+    },
+    {
+      "id": 25,
+      "name": "teste graphql",
+      "balance": 2000
+    },
+    {
+      "id": 27,
+      "name": "teste modify",
+      "balance": 2500
+    },
+    {
+      "id": 28,
+      "name": "teste graphql",
+      "balance": 2000
     }
   ]
 }

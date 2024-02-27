@@ -311,3 +311,64 @@
 2024-02-27T18:32:49.163Z [my-bank-api]  info: PATCH /account/updateBalance - {"id":3,"name":"Alex sem santos e sem dinheiro","balance":505}
 2024-02-27T18:33:16.129Z [my-bank-api]  info: PATCH /account/updateBalance - {"id":3,"name":"Alex sem santos e sem dinheiro","balance":505}
 2024-02-27T18:33:28.044Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:00:19.434Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:04:29.779Z [my-bank-api]  info: PATCH /account/updateBalance - {"id":3,"name":"Alex sem santos e sem dinheiro","balance":505}
+2024-02-27T19:04:32.079Z [my-bank-api]  info: GET /account
+2024-02-27T19:05:05.587Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:05:57.680Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:10:35.592Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:11:34.057Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:13:44.976Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:14:15.121Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:16:08.236Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:20:50.083Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:21:13.487Z [my-bank-api]  info: DELETE /account/:id => account deleted = 18
+2024-02-27T19:23:46.802Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:26:50.293Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:26:56.319Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:27:26.745Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:30:35.931Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:32:32.759Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:33:08.066Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:33:25.508Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:35:36.210Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:35:47.467Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:36:06.041Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:36:34.495Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:36:47.268Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:39:12.530Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:39:58.576Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:41:00.943Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:41:42.988Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:41:45.951Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:41:47.420Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:41:59.034Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:44:04.208Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:44:35.465Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:45:00.008Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:47:19.372Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:47:45.525Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:51:17.850Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:52:32.994Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:53:55.375Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T19:57:41.092Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:03:11.992Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:03:44.758Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:08:36.373Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:22:58.073Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:26:13.933Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:28:26.243Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:30:00.483Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:30:21.325Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:30:25.912Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:30:46.040Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:30:49.752Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:31:29.114Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:31:53.715Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:31:56.721Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:35:34.313Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:36:04.437Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:37:01.776Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:37:14.262Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:37:30.591Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T20:39:01.651Z [my-bank-api]  info: Server is running on port 3000

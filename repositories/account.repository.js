@@ -41,7 +41,7 @@ async function deleteAccountById (id) {
 
   await writeDataAccount(data)
 
-  return data
+  return
 }
  
 async function updateAccount (account) {
