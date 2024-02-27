@@ -2,6 +2,8 @@ import express from 'express'
 import winston from 'winston'
 import { promises as fs} from 'fs'
 import accountsRouter from './routes/accounts.js'
+import cors from 'cors'
+
 
 const { readFile, writeFile } = fs
 // global json file to write and read items for learning purposes
@@ -23,6 +25,7 @@ global.logger = winston.createLogger({
   )
 })
 const app = express()
+app.use(cors())
 app.use(express.json())
 
 

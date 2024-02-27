@@ -1,7 +1,6 @@
 import express from 'express'
 import { promises as fs} from 'fs'
 
-
 const { readFile, writeFile } = fs
 const router = express.Router()
 
@@ -110,7 +109,7 @@ router
       const index = data.accounts.findIndex(dataAccount => dataAccount.id === account.id)
 
       if (index === -1) throw new Error('account not found')
-      
+
       data.accounts[index].balance = account.balance
 
       await writeFile(global.filename, JSON.stringify(data))
