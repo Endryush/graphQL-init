@@ -87,3 +87,14 @@
 2024-02-27T15:24:38.690Z [my-bank-api]  info: PUT /account - {"id":2,"name":"Alex santos","balance":7000}
 2024-02-27T15:24:50.831Z [my-bank-api]  info: GET /account
 2024-02-27T15:28:21.133Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T16:08:56.171Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T16:08:58.324Z [my-bank-api]  info: POST /account - {"id":9,"name":"Alex santos","balance":7000}
+2024-02-27T16:11:32.049Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T16:11:58.461Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T16:14:52.304Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T16:15:45.945Z [my-bank-api]  info: Server is running on port 3000
+2024-02-27T16:16:21.168Z [my-bank-api]  info: GET /account
+2024-02-27T16:16:23.859Z [my-bank-api]  info: GET /account
+2024-02-27T16:17:03.918Z [my-bank-api]  error: POST => /account campos name e balance são obrigatórios
+2024-02-27T16:17:31.809Z [my-bank-api]  info: POST /account - {"id":10,"name":"doggie","balance":200}
+2024-02-27T16:17:33.505Z [my-bank-api]  info: POST /account - {"id":11,"name":"doggie","balance":200}
