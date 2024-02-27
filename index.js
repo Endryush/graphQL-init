@@ -1,7 +1,7 @@
 import express from 'express'
 import winston from 'winston'
 import { promises as fs} from 'fs'
-import accountsRouter from './routes/accounts.js'
+import accountsRouter from './routes/accounts.routes.js'
 import cors from 'cors'
 import swaggerUi from 'swagger-ui-express'
 import { swaggerDocument } from './doc.js'
